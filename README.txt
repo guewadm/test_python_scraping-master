@@ -1,6 +1,6 @@
-websiteviz
-	Contains the code of the website.
-websiteanalytic
-	Contains the code for the computations
-websitegraph
-	Contains the code for the web crawling
+first_part
+	Contains the code of the first_part
+second_part
+	Contains the code for the second_part
+third_part
+	Contains the code for the web third_part
